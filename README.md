@@ -1,3 +1,6 @@
+## This repository is archived
+The Center for Computational Research has released an update of OpenXDMoD that includes a Dockerfile. Aside from site specific notes for deployment at SDSC you should be getting the docker container from [here](https://github.com/ubccr/xdmod).
+
 ## Creating the containers
 Clone the xdmod repo to xdmod-src:
 
